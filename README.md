@@ -4,7 +4,7 @@ A personal student webpage showcasing information about a Queen's University Sch
 
 ## Features
 
-- **Responsive Design**: Clean, mobile-friendly layout with proper viewport settings
+- **Clean Layout**: Simple, single-column design with proper viewport settings
 - **Semantic HTML5**: Uses modern HTML5 semantic elements (`<header>`, `<main>`, `<section>`)
 - **Queen's Branding**: Incorporates official Queen's University colors (red, blue, and gold)
 - **Personal Sections**: 
@@ -32,6 +32,8 @@ To personalize this page:
 1. Update the personal information in `index.html` (name, about, courses, contact)
 2. Replace the profile image with your own photo
 3. Modify colors or spacing in `style.css` to match your preferences
+
+**Note**: The course listings currently use different dash styles (em dashes "—" and hyphens "-"). You may want to standardize these for consistency.
 
 ## Technologies Used
 
